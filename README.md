@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Murlee Yadav — Frontend Architect | React • Next.js • Node.js
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/yourlinkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square)](mailto:youremail@example.com)
+![Profile Views](https://komarev.com/ghpvc/?username=murle&color=blueviolet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/murlee-yadav-39634958/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square)](mailto:murleey88@gmail.com)
 
 ---
 
